@@ -1,8 +1,6 @@
-# Sticky Notes Application – Part 1
+# Sticky Notes Application 
 
 A Django web application that allows users to create, view, update, and delete sticky notes.  
-This project was developed as part of **HyperionDev – Software Engineering Level 2 **.
-
 ---
 
 ## Features
